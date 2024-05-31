@@ -35,4 +35,4 @@ Change the default install location:
 
 Maybe you don't want the full list of modules?:
 
-   make MODULES="tree-sitter-c tree-sitter-cpp" list
+    make MODULES="tree-sitter-c tree-sitter-cpp" list
